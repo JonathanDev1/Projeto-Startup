@@ -30,4 +30,7 @@ Criar a proposta de uma startup voltada a melhorar o acesso e a qualidade da edu
 - Ferramentas de apoio: Draw.io, Lucidchart, ou similares.  
 
 ---
+## 📌 Como visualizar
+- Acesse a pasta **QBRAIN** nesse repositório
+---
 Autor: Jonathan Alves - Formado em Analise e Desenvolvimento de Sistemas
