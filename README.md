@@ -30,14 +30,4 @@ Criar a proposta de uma startup voltada a melhorar o acesso e a qualidade da edu
 - Ferramentas de apoio: Draw.io, Lucidchart, ou similares.  
 
 ---
-
-## 🚀Próximos Passos
-
-- Prototipagem inicial da solução (MVP).  
-- Detalhamento técnico com requisitos funcionais e não funcionais.  
-- Estruturação de testes e simulação de casos de uso.  
-- Evolução para um protótipo de software funcional.  
-
----
-
-
+Autor: Jonathan Alves - Formado em Analise e Desenvolvimento de Sistemas
