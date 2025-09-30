@@ -1,6 +1,43 @@
-# Projeto-Startup
-Esse foi um projeto desenvolvido durante as aulas de modelagem de negócios e requisitos. Foi proposto que desenvolvêssemos uma startup visando alguma ODS, assim surgiu a QBRAIN uma solução com questões inteligentes. 
+# Projeto Startup — QBRAIN
 
-Para o desenvolvimento idealizamos a Startup do zero e criamos um projeto completo utilizando ferramentas e processos como: Business Model Canvas, Analise Swot, processos BPM / BPMN, requisitos e diagramas de casos de uso e de classe. 
+Este repositório contém o projeto **QBRAIN**, desenvolvido no contexto acadêmico como parte da disciplina de **Modelagem de Negócios e Requisitos**.  
+O objetivo foi idealizar uma startup do zero, com foco na **ODS 4 (Educação de Qualidade)**, aplicando metodologias de planejamento estratégico e documentação de requisitos de software.
 
-Tiveram alguns outros processos, por isso te convido a acessar o arquivo e dar uma olhada nesse projeto.
+---
+
+##  Objetivo
+
+Criar a proposta de uma startup voltada a melhorar o acesso e a qualidade da educação, utilizando tecnologia como meio de inovação, organização e impacto social.
+
+---
+
+##  Conteúdo do Repositório
+
+- **Business Model Canvas** — visão geral do modelo de negócio.  
+- **Análise SWOT** — forças, fraquezas, oportunidades e ameaças.  
+- **Modelagem BPMN** — representação dos processos de negócio.  
+- **Diagramas de Casos de Uso** — descrição funcional do sistema.  
+- **Diagramas de Classes** — estrutura técnica e relacionamentos.  
+- **Apresentação PDF** — resumo consolidado da proposta.  
+
+---
+
+##  Tecnologias e Ferramentas Utilizadas
+
+- **BPMN 2.0** para modelagem de processos.  
+- **Diagramas UML** (Casos de Uso e Classes).  
+- **Business Model Canvas** e **SWOT** para estruturação do negócio.  
+- Ferramentas de apoio: Draw.io, Lucidchart, ou similares.  
+
+---
+
+## 🚀Próximos Passos
+
+- Prototipagem inicial da solução (MVP).  
+- Detalhamento técnico com requisitos funcionais e não funcionais.  
+- Estruturação de testes e simulação de casos de uso.  
+- Evolução para um protótipo de software funcional.  
+
+---
+
+
